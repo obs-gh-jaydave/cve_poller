@@ -3,7 +3,7 @@
 This project contains the necessary files to set up an HTTP poller using Observe to connect to an open-source CVE database.
 
 ## Folder Structure
-
+```
 cve_poller/
 ├── LICENSE
 ├── Makefile
@@ -41,6 +41,7 @@ cve_poller/
         └── versions.tf
 
 8 directories, 27 files
+```
 
 ## Setup
 
