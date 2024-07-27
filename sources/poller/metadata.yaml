@@ -1,0 +1,5 @@
+name: poller
+description: CVE Poller
+kind: poller
+requiredvariables:
+- datastream

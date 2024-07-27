@@ -1,0 +1,7 @@
+template:
+  headers:
+    Accept: application/xml
+
+requests:
+  - url: "https://cve.mitre.org/data/downloads/allitems.xml"
+    params: {}

@@ -1,0 +1,10 @@
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
+
+.terraform.lock.hcl
+
+# Ignore CVE files
+cve_data/allitems.xml
+cve_data/aallitems.json

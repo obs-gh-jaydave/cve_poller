@@ -1,0 +1,5 @@
+name: External Token
+description: Token for external source
+kind: token
+requiredVariables: 
+- datastream
